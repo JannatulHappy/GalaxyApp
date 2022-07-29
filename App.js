@@ -6,7 +6,7 @@ import {typography} from './src/theme/typography';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello World</Text>
+      <Text style={styles.text}>Hello World take me!</Text>
       <Text>Hello World</Text>
       <StatusBar style="auto"></StatusBar>
     </View>
